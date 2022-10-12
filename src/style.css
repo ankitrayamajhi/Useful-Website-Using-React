@@ -1,0 +1,28 @@
+h1{
+ background-color: aqua;
+ color: blue;
+ padding:20px;
+ border-radius: 20px;
+ text-align: center;
+
+}
+h3{
+ text-align: center;
+ color: brown;
+ 
+}
+.button{
+ background-color:aqua;
+ color:green;
+ padding: 15px 30px;
+ font-size: 20px;
+ font-family: sans-serif;
+ font-style: oblique;
+ border-radius: 20px;
+ margin-right: 5px;
+ border: none;
+ text-align: center;
+}
+div{
+ text-align: center;
+}
